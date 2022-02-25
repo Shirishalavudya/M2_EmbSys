@@ -46,10 +46,6 @@ In this system we integrate mobile devices into home automation system.
 
 The system consists of mainly three components is a BLUETOOTH module, Arduino microcontroller and relay circuits.WIFI is used as the communication channel between phone and the Arduino microcontroller.
 
-# SWOT Analysis:
-
-![swat analysis](https://user-images.githubusercontent.com/99073372/155729881-29d86ea0-97c1-4869-85d9-4919c2576519.jpg)
-
 # Requirements:
 
 # High Level Requirements:
