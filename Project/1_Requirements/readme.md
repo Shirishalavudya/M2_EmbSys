@@ -50,6 +50,20 @@ In this system we integrate mobile devices into home automation system.
 
 The system consists of mainly three components is a BLUETOOTH module, Arduino microcontroller and relay circuits.WIFI is used as the communication channel between phone and the Arduino microcontroller.
 
+# SWOT
+
+# Strength
+
+1)It is very economic and easy to handle by the user.
+
+2)It is helpfull to disabled people.
+
+3)It is very easy to install in office,houses ets.
+
+# weakness
+
+1)Arduino is the heart of the circuit ,if controller is damaged the whole system will be interrupted.
+
 # Requirements:
 
 # High Level Requirements:
