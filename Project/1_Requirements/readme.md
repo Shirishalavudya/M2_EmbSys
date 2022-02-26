@@ -84,6 +84,12 @@ The system consists of mainly three components is a BLUETOOTH module, Arduino mi
 |LLR2|POWER SUPPLY|
 |LLR3|CONNECTING WIRES|
 
+# Software requirements
+
+1)Simulide
+
+2)Arduino
+
 # Applications:
 
 i)it can be used in lighting control.
