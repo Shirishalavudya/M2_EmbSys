@@ -2,7 +2,7 @@
 
 # Abstract:
 
-As technology is advancing so houses are also getting smarter. Modern houses are gradually shifting from conventional switches to centralized control system, involving remote controlled switches. Presently, conventional wall switches located in different parts of the house makes it difficult for the user to go near them to operate. Even more it becomes more difficult for the elderly or physically handicapped people to do so. Remote controlled home automation system provides a most modern solution with smart phones. In order to achieve this, a Bluetooth module is interfaced to the Arduino board at the receiver end while on the transmitter end, a GUI application on the cell phone sends ON/OFF commands to the receiver where loads are connected. By touching the specified location on the GUI, the loads can be turned ON/OFF remotely through this technology. The loads are operated by Arduino board through opto- isolators and thyristors using triacs. 
+As technology is advancing so houses are also getting smarter. Modern houses are gradually shifting from conventional switches to centralized control system, involving remote controlled switches. Presently, conventional wall switches located in different parts of the house makes it difficult for the user to go near them to operate. Even more it becomes more difficult for the elderly or physically handicapped people to do so. Remote controlled home automation system provides a most modern solution with smart phones. In order to achieve this, a Bluetooth module is interfaced to the Arduino board at the receiver end while on the transmitter end, a GUI application on the cell phone sends ON/OFF commands to the receiver where loads are connected. 
 
 # Introuduction:
 
@@ -10,7 +10,7 @@ Nowadays, we have remote controls for our television sets and other electronic s
 
 # Objectives:
 
-The mai objective of home automation system is to help handicapped and aged people that will enable them to control home appliances and alert them in critical situations.
+The main objective of home automation system is to help handicapped and aged people that will enable them to control home appliances and alert them in critical situations.
 
 # Benifits:
 
@@ -40,7 +40,7 @@ The purpose of home automation system is to streamline how your home functions.
 
 # When
 
-This is used to control the home functions when we are outside and it mostly usefull to handicapped and aged people.
+This is used to control the home functions like ON/OFF activities ,when we are outside and it mostly usefull to handicapped and aged people.
 
 # Where
 
@@ -73,8 +73,14 @@ The system consists of mainly three components is a BLUETOOTH module, Arduino mi
 |HLR1|BLUETOOTH MODULE|
 |HLR2|CHANNEL RELAY|
 |HLR3|SMARTPHONE|
-|HLR4|LOAD(BULB 220V)|
+|HLR4|ALTERNATOR|
 |HLR5|ARDUINO UNO|
+|HLR6|LAMP|
+|HLR7|MOTOR|
+|HLR8|RES|
+|HLR9|LED-YELLOW|
+|HLR10|1N4007 DIOD|
+|HLR11|2N2222 TRANSISTOR|
 
 # Low level Requirements:
 
@@ -92,9 +98,9 @@ The system consists of mainly three components is a BLUETOOTH module, Arduino mi
 
 # Applications:
 
-i)it can be used in lighting control.
+i)It can be used in lighting control.
 
-ii)In lawn irrigation system.
+ii)It is used to controll fan.
 
 iii)Security systems.
 
