@@ -1,7 +1,3 @@
-# DESIGN
-
-![design](https://user-images.githubusercontent.com/99073372/155752046-c03ad276-2ae0-4421-b6ae-6f51f84a0c7e.jpg)
-
 # BLOCK DIAGRAM
 
 # Structure Diagram
