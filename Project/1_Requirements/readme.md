@@ -79,7 +79,7 @@ The system consists of mainly three components is a BLUETOOTH module, Arduino mi
 |HLR7|MOTOR|
 |HLR8|RES|
 |HLR9|LED-YELLOW|
-|HLR10|1N4007 DIOD|
+|HLR10|1N4007 DIODE|
 |HLR11|2N2222 TRANSISTOR|
 
 # Low level Requirements:
