@@ -7,8 +7,8 @@
 # Structure Diagram
 
 # High Level
+<img width="522" alt="newblock diagram" src="https://user-images.githubusercontent.com/99073372/156924372-a560544c-09d3-4179-af83-1dc34e1b53ba.PNG">
 
-<img width="568" alt="BLOCK" src="https://user-images.githubusercontent.com/99073372/155752463-ac2546c3-6822-4cbf-aafa-950e979f6413.png">
 
 # FLOW CHART
 
