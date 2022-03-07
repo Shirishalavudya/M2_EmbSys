@@ -38,7 +38,8 @@ Arduino IDE supplies a software library from the Wiring project, which provides 
 
 # Behavirol Diagram Low Level
 
-<img width="332" alt="flowchart" src="https://user-images.githubusercontent.com/99073372/156928483-129cb980-dc1c-4b2f-8a0d-325acf4b9852.PNG">
+<img width="278" alt="121" src="https://user-images.githubusercontent.com/99073372/157043391-d0a1c25e-16eb-4a9e-bb7d-532355d3416d.PNG">
+
 
 
 
