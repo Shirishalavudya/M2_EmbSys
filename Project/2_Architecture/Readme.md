@@ -4,6 +4,11 @@
 
 <img width="522" alt="newblock diagram" src="https://user-images.githubusercontent.com/99073372/156924372-a560544c-09d3-4179-af83-1dc34e1b53ba.PNG">
 
+# Low Level Diagram
+
+![image](https://user-images.githubusercontent.com/99073372/157078647-6901c401-1cfe-4c93-b737-b208aefd517e.png)
+
+
 # Functions of the components used:
 
 ## Bluetooth Module:
