@@ -35,6 +35,35 @@ The main objective of home automation system is to help handicapped and aged peo
 
 # 4 W'S and 1H
 
+# Who
+Now a days it is using in all homes and mainly in smart homes.
+
+# What
+The purpose of home automation system is to streamline how your home functions.
+
+# When
+This is used to control the home functions like ON/OFF activities ,when we are outside and it mostly usefull to handicapped and aged people.
+
+# Where
+In this system we integrate mobile devices into home automation system.
+
+# How
+The system consists of mainly three components is a BLUETOOTH module, Arduino microcontroller and relay circuits.WIFI is used as the communication channel between phone and the Arduino microcontroller.
+
+# SWOT Analysis
+
+Strength
+
+1)It is very economic and easy to handle by the user.
+
+2)It is helpfull to disabled people.
+
+3)It is very easy to install in office,houses ets.
+
+weakness
+
+1)Arduino is the heart of the circuit ,if controller is damaged the whole system will be interrupted.
+
 
 
 
