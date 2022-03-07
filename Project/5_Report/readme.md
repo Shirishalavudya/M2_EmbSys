@@ -35,19 +35,19 @@ The main objective of home automation system is to help handicapped and aged peo
 
 # 4 W'S and 1H
 
-# Who
+## Who
 Now a days it is using in all homes and mainly in smart homes.
 
-# What
+## What
 The purpose of home automation system is to streamline how your home functions.
 
-# When
+## When
 This is used to control the home functions like ON/OFF activities ,when we are outside and it mostly usefull to handicapped and aged people.
 
-# Where
+## Where
 In this system we integrate mobile devices into home automation system.
 
-# How
+## How
 The system consists of mainly three components is a BLUETOOTH module, Arduino microcontroller and relay circuits.WIFI is used as the communication channel between phone and the Arduino microcontroller.
 
 # SWOT Analysis
@@ -98,27 +98,27 @@ The system consists of mainly three components is a BLUETOOTH module, Arduino mi
 
 # Functions of the components used:
 
-# Bluetooth Module:
+## Bluetooth Module:
 
 HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,designed for transparent wireless serial connection setup.It is used to connect smart phone with schematic and perform ON/OFF operation by voice controll.
 
-# Transistor:
+## Transistor:
 
 Transistor acts like a switch to control when a high signal is outputted to the power switch tail.
 
-# Alternator:
+## Alternator:
 
 It is used to give power supply to the components.
 
-# Diode:
+## Diode:
 
 It acts as a one-way switch.
 
-# Relay Module:
+## Relay Module:
 
 We can control high voltage electronic devices using relays. A Relay is actually a switch which is electrically operated by an electromagnet.The electromagnet is activated with a low voltage,for example 5 volts from a microcontroller and it pulls a contact to make or break a high voltage circuit.Relays are used wherever it is necessary to control a high power or high voltage circuit with a low power circuit, especially when galvanic isolation is desirable.
 
-# Arduino:
+## Arduino:
 
 Arduino IDE supplies a software library from the Wiring project, which provides many common input and output procedure.The Arduino IDE supports the languages C and C++ using special rules of code structuring.The Arduino IDE employs the program avrdude to convert the executable code into text file in hexadecimal encoding that is loaded into the arduino board by a loader program in the board's firmware.
 
