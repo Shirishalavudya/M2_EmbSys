@@ -130,6 +130,13 @@ Arduino IDE supplies a software library from the Wiring project, which provides 
 
 # Applications
 
+i)It can be used in lighting control.
+
+ii)It is used to controll fan.
+
+iii)Security systems.
+
+iv)Improveed home saftey and security.
 
 
 
