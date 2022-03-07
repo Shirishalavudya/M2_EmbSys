@@ -86,9 +86,19 @@ The system consists of mainly three components is a BLUETOOTH module, Arduino mi
 
 |RID|DESCRIPTION|
 |:---:|:----:|
-|LLR1|ARE
+|LLR1|AREA|
 |LLR2|POWER SUPPLY|
 |LLR3|CONNECTING WIRES|
+
+# Architecture
+
+## Behavirol Diagram:
+
+<img width="522" alt="newblock diagram" src="https://user-images.githubusercontent.com/99073372/157040293-229be654-2a7c-4893-8ad0-b85c895e781e.PNG">
+
+# Applications
+
+
 
 
 
