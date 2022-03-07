@@ -52,7 +52,7 @@ The system consists of mainly three components is a BLUETOOTH module, Arduino mi
 
 # SWOT Analysis
 
-Strength
+## Strength
 
 1)It is very economic and easy to handle by the user.
 
@@ -60,9 +60,35 @@ Strength
 
 3)It is very easy to install in office,houses ets.
 
-weakness
+## weakness
 
 1)Arduino is the heart of the circuit ,if controller is damaged the whole system will be interrupted.
+
+#  Detailed Requirements:
+
+# High Level Requirements:
+
+|RID|DESCRIPTION|
+|:---:|:------:|
+|HLR1|BLUETOOTH MODULE|
+|HLR2|CHANNEL RELAY|
+|HLR3|SMARTPHONE|
+|HLR4|ALTERNATOR|
+|HLR5|ARDUINO UNO|
+|HLR6|LAMP|
+|HLR7|MOTOR|
+|HLR8|RES|
+|HLR9|LED-YELLOW|
+|HLR10|1N4007 DIODE|
+|HLR11|2N2222 TRANSISTOR|
+
+# Low level Requirements:
+
+|RID|DESCRIPTION|
+|:---:|:----:|
+|LLR1|ARE
+|LLR2|POWER SUPPLY|
+|LLR3|CONNECTING WIRES|
 
 
 
