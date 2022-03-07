@@ -20,5 +20,14 @@ Nowadays, we have remote controls for our television sets and other electronic s
 |4_TestPlanandOutput|Documets with test plans and outputs|
 |5_Report|Generated Report|
 |6_ImagesandVedios|All the images and program execution vedeo|
-|7_
+|7_Others|Nill|
+|8_Refferences|Some refferences links|
+
+# Challenges Faced and How Was it Overcome:
+
+1)Struggled with implementaion of whole code .
+2)strggled with schematic connections and generating hex file.
+
+# Objectives:
+
 
