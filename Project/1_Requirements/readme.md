@@ -92,7 +92,7 @@ The system consists of mainly three components is a BLUETOOTH module, Arduino mi
 
 # Software requirements
 
-1)Simulide
+1)Proteus
 
 2)Arduino
 
