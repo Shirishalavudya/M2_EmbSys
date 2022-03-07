@@ -25,9 +25,16 @@ Nowadays, we have remote controls for our television sets and other electronic s
 
 # Challenges Faced and How Was it Overcome:
 
-1)Struggled with implementaion of whole code .
+1)Struggled with implementaion of whole code.
+
 2)strggled with schematic connections and generating hex file.
 
 # Objectives:
+
+The main objective of home automation system is to help handicapped and aged people that will enable them to control home appliances and alert them in critical situations.
+
+# 4 W'S and 1H
+
+
 
 
