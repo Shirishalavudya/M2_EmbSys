@@ -1,10 +1,34 @@
 # BLOCK DIAGRAM
 
-# Structure Diagram
+# Structural Diagram High Level
 
-# High Level
 <img width="522" alt="newblock diagram" src="https://user-images.githubusercontent.com/99073372/156924372-a560544c-09d3-4179-af83-1dc34e1b53ba.PNG">
 
+# Functions of the components used:
+
+## Bluetooth Module:
+
+HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,designed for transparent wireless serial connection setup.It is used to connect smart phone with  schematic and perform ON/OFF operation by voice controll.
+
+## Transistor:
+
+Transistor acts like a switch to control when a high signal is outputted to the power switch tail.
+
+## Alternator:
+
+It is used to give power supply to the components.
+
+## Diode:
+
+It acts as a one-way switch.
+
+## Relay Module:
+
+We can control high voltage electronic devices using relays. A Relay is actually a switch which is electrically operated by an electromagnet.The electromagnet is activated with a low voltage,for example 5 volts from a microcontroller and it pulls a contact to make or break a high voltage circuit.Relays are used wherever it is necessary to control a high power or high voltage circuit with a low power circuit, especially when galvanic isolation is desirable.
+
+## Arduino:
+
+Arduino IDE supplies a software library from the Wiring project, which provides many common input and output procedure.The Arduino IDE supports the languages C and C++ using special rules of code structuring.The Arduino IDE employs the program avrdude to convert the executable code into text file in hexadecimal encoding that is loaded into the arduino board by a loader program in the board's firmware. 
 
 # FLOW CHART
 
