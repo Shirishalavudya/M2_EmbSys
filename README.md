@@ -1,5 +1,7 @@
 # M2_EmbSys
 
+# HOME AUTOMATION SYSTEM USING ARDUINO
+
 # Badges
 
 [![CI](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/main.yml/badge.svg)](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/main.yml)
@@ -12,4 +14,4 @@
 
 [![Valgrind](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Val.yml)
 
-# HOME AUTOMATION SYSTEM USING ARDUINO
+
