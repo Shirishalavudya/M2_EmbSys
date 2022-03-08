@@ -10,4 +10,6 @@
 
 [![Unit-Testing](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Unit.yml)
 
+[![Valgrind](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Val.yml)
+
 # HOME AUTOMATION SYSTEM USING ARDUINO
