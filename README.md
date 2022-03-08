@@ -8,4 +8,6 @@
 
 [![Cpp-Check](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Cpp.yml/badge.svg)](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Cpp.yml)
 
+[![Unit-Testing](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/Shirishalavudya/M2_EmbSys/actions/workflows/Unit.yml)
+
 # HOME AUTOMATION SYSTEM USING ARDUINO
